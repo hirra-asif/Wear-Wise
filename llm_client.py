@@ -90,8 +90,7 @@ def call_llm(
         "max_tokens": max_tokens,
     }
 
-    # Debug: see exactly what we're sending 
-    print(">>> LLM payload:", payload)
+
 
     try:
         resp = requests.post(API_ENDPOINT, headers=headers, json=payload, timeout=30)
