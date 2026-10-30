@@ -12,8 +12,8 @@ The agent takes a brief from the user (desired article of clothing, colour, vibe
 
 1. Clone the repository
 ```bash
-git clone https://github.com/IainMertner/agent-marcy.git
-cd .\agent-marcy\
+git clone https://github.com/hirra-asif/Wear-Wise.git
+cd Wear-Wise
 ```
 2. Create and activate a virtual environment
 ```bash
